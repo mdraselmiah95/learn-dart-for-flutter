@@ -57,9 +57,9 @@ void main() {
 
   // ── 7. ! — FORCE UNWRAP (DANGEROUS) ───────────────────────
   // "Trust me Dart, this is NOT null" — crashes if you're wrong!
-  String? definitelySet = 'I exist';
-  String sure = definitelySet!;   // OK here — we know it has a value
-  print(sure);                    // → I exist
+  String? maybeCity = fetchCity();   // returns 'Dhaka' — has a value
+  String sure = maybeCity!;          // we KNOW it's set, so ! is safe here
+  print(sure);                       // → Dhaka
 
   // RULE: avoid ! unless you are 100% certain.
   // Prefer ?? or if-checks — they can never crash.
