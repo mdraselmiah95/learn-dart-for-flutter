@@ -12,7 +12,7 @@
 
 **Step-by-step Dart programming for beginners — structured, practical, and Flutter-focused.**
 
-[Start Here →](lessons/lesson-01-introduction/) · [Setup Guide](setup.md) · [Roadmap](roadmap.md)
+[Start Here →](lessons/lesson-01-introduction/) · [Setup Guide](setup.md) · [Roadmap](roadmap.md) · [How to Contribute / Update](CONTRIBUTING.md)
 
 </div>
 

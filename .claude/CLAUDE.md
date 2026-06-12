@@ -1,13 +1,22 @@
-# Basic-Dart Project
+# learn-dart-for-flutter
 
 ## About
-Learning Dart fundamentals. Each lesson covers one topic.
+Public GitHub learning repository — teaches Dart step by step from beginner to standard level, then prepares for Flutter.
 
 ## Lesson Structure
-- `lesson-1/` — Dart fundamentals overview (entry point, variables, operators, loops, functions, OOP, async)
-- `lesson-2/` — Variables deep dive (all types: var, String, int, double, bool, dynamic, final, const, nullable, late, List, Map, Set)
+All lessons are in `lessons/` folder:
+- `lesson-01-introduction/` — main.dart, practice.dart, solution.dart, README.md
+- `lesson-02-variables-and-data-types/` — complete
+- `lesson-03-operators/` through `lesson-12-flutter-readiness/` — stubs, add content per lesson
 
 ## Rules
-- Each lesson is one `.dart` file
-- Every line has beginner-friendly comments explaining what and why
-- Run with: `dart lesson-X/lesson-X.dart`
+- Every lesson has: README.md, main.dart, practice.dart, solution.dart
+- Every code line has a beginner-friendly inline comment
+- Use explicit types (not just var) in examples — more educational
+- Show expected output next to print statements: `// → output`
+- Follow lesson-conventions.md in rules/
+
+## Run Any Lesson
+```bash
+dart run lessons/lesson-XX-name/main.dart
+```
