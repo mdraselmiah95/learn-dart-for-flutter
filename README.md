@@ -60,8 +60,9 @@ Flutter is 100% built on Dart. Without Dart:
 learn-dart-for-flutter/
 ├── README.md                         ← You are here
 ├── roadmap.md                        ← Full learning roadmap
-├── setup.md                          ← How to install Dart
+├── setup.md                          ← Quick install reference
 ├── lessons/
+│   ├── lesson-00-setup/              ← Full Dart + Flutter install guide
 │   ├── lesson-01-introduction/
 │   │   ├── README.md                 ← Lesson explanation
 │   │   ├── main.dart                 ← Code examples
@@ -93,7 +94,8 @@ learn-dart-for-flutter/
 
 | # | Lesson | Topics Covered |
 |---|--------|----------------|
-| 01 | [Introduction to Dart](lessons/lesson-01-introduction/) | What is Dart, setup, first program, comments, print |
+| 00 | [Local Setup](lessons/lesson-00-setup/) | Install Dart & Flutter on Mac, Windows, Linux + VS Code |
+| 01 | [Introduction to Dart](lessons/lesson-01-introduction/) | What is Dart, first program, comments, print |
 | 02 | [Variables & Data Types](lessons/lesson-02-variables-and-data-types/) | var, String, int, double, bool, dynamic, final, const, null |
 | 03 | [Operators](lessons/lesson-03-operators/) | Arithmetic, comparison, logical, assignment, null-aware |
 | 04 | [Control Flow](lessons/lesson-04-control-flow/) | if, else, else-if, switch, ternary |

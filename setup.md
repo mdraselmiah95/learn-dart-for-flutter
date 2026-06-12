@@ -2,6 +2,8 @@
 
 Get Dart running on your machine in 5 minutes.
 
+> **Want the full guide including Flutter?** See [Lesson 00 — Local Setup](lessons/lesson-00-setup/) — covers Dart + Flutter on Mac, Windows, and Linux, with troubleshooting.
+
 ---
 
 ## Option 1 — No Installation (Recommended for Beginners)
