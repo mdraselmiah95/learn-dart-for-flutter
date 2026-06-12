@@ -6,11 +6,8 @@ Quick reference material for the entire Dart language.
 
 | File | Content |
 |------|---------|
-| `dart-cheatsheet.md` | All syntax in one page |
-| `null-safety-guide.md` | Complete null safety reference |
-| `dart-vs-syntax.md` | Syntax comparison |
-
-> Reference files are added as lessons progress.
+| [dart-cheatsheet.md](dart-cheatsheet.md) | All Dart syntax on one page |
+| [null-safety-guide.md](null-safety-guide.md) | Complete null safety reference with decision table |
 
 ## Quick Links
 

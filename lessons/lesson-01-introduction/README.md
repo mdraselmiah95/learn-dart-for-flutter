@@ -125,3 +125,7 @@ Or paste the code into [DartPad](https://dartpad.dev).
 ## Practice
 
 Open `practice.dart` and complete the tasks. Try each task yourself before checking `solution.dart`.
+
+---
+
+⬅ [Lesson 00 — Setup](../lesson-00-setup/) · [Lesson 02 — Variables](../lesson-02-variables-and-data-types/) ➡

@@ -140,3 +140,7 @@ dart run lessons/lesson-02-variables-and-data-types/main.dart
 ## Practice
 
 Open `practice.dart` and complete the tasks. Try each task yourself before checking `solution.dart`.
+
+---
+
+⬅ [Lesson 01 — Introduction](../lesson-01-introduction/) · [Lesson 03 — Operators](../lesson-03-operators/) ➡

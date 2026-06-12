@@ -1,25 +1,28 @@
 # Exercises
 
-Extra practice problems to reinforce each lesson topic.
+Extra practice problems — 4 tasks per file, harder than lesson practice.
 
 ## How to Use
 
-1. Read the problem description in each file
-2. Write your solution in a new file `exercise-XX-solution.dart`
-3. Run it and verify the output matches the expected output
+1. Open the exercise file — tasks are described in comments
+2. Write your solutions directly inside `main()`
+3. Run the file to test:
+   ```bash
+   dart run exercises/exercise-01-variables.dart
+   ```
 
 ## Exercise List
 
-| # | Topic | Difficulty |
-|---|-------|------------|
-| 01 | Variables & Types | Beginner |
-| 02 | Operators & Logic | Beginner |
-| 03 | Control Flow | Beginner |
-| 04 | Loops | Beginner |
-| 05 | Functions | Intermediate |
-| 06 | Collections | Intermediate |
-| 07 | Null Safety | Intermediate |
-| 08 | OOP | Intermediate |
-| 09 | Async | Intermediate |
+| File | Topic | Difficulty | After Lesson |
+|------|-------|------------|--------------|
+| [exercise-01](exercise-01-variables.dart) | Variables & Types | Beginner | 02 |
+| [exercise-02](exercise-02-operators.dart) | Operators & Logic | Beginner | 03 |
+| [exercise-03](exercise-03-control-flow.dart) | Control Flow | Beginner | 04 |
+| [exercise-04](exercise-04-loops.dart) | Loops | Beginner | 05 |
+| [exercise-05](exercise-05-functions.dart) | Functions | Intermediate | 06 |
+| [exercise-06](exercise-06-collections.dart) | Collections | Intermediate | 07 |
+| [exercise-07](exercise-07-null-safety.dart) | Null Safety | Intermediate | 08 |
+| [exercise-08](exercise-08-oop.dart) | OOP | Intermediate | 09–10 |
+| [exercise-09](exercise-09-async.dart) | Async | Intermediate | 11 |
 
-> Exercise files are added as lessons are completed.
+> Stuck? Each topic's lesson folder has worked examples in `main.dart` and similar solved tasks in `solution.dart`.
