@@ -1,6 +1,8 @@
-# Lesson 11 — Async Programming: Future, async/await, Streams
+# Lesson 11 — Error Handling & Async Programming
 
 ## Topics Covered
+- Error handling: `try` / `catch` / `on` / `finally` / `throw`
+- Custom exceptions
 - Why async programming exists (single-threaded Dart)
 - `Future<T>` — a value that arrives later
 - `async` and `await` keywords

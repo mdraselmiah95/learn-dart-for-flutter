@@ -1,6 +1,7 @@
 # Lesson 12 — Flutter Readiness
 
 ## Topics Covered
+- Dart packages: `pubspec.yaml`, `dart pub get`, using pub.dev
 - Building a data model class with `fromJson` / `toJson`
 - Writing a service class for data fetching
 - Using `final`, `const`, and immutable models

@@ -103,8 +103,8 @@ learn-dart-for-flutter/
 | 08 | [Null Safety](lessons/lesson-08-null-safety/) | ?, ??, ?., !, late — complete null safety system |
 | 09 | [OOP — Classes](lessons/lesson-09-oop-classes/) | class, object, constructor, properties, methods |
 | 10 | [Inheritance & Mixins](lessons/lesson-10-inheritance-abstract-mixin/) | extends, abstract, implements, mixin |
-| 11 | [Async Programming](lessons/lesson-11-async-future-streams/) | Future, async, await, Stream, error handling |
-| 12 | [Flutter Readiness](lessons/lesson-12-flutter-readiness/) | Models, services, JSON, clean code patterns |
+| 11 | [Error Handling & Async](lessons/lesson-11-async-future-streams/) | try/catch, throw, Future, async, await, Stream |
+| 12 | [Flutter Readiness](lessons/lesson-12-flutter-readiness/) | pubspec.yaml, packages, models, services, JSON, clean code |
 
 ---
 
