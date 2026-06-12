@@ -20,4 +20,3 @@ Every Flutter API call, database read, and file operation is async. `FutureBuild
 dart run lessons/lesson-11-async-future-streams/main.dart
 ```
 
-> Files coming soon. See [roadmap](../../roadmap.md) for lesson schedule.

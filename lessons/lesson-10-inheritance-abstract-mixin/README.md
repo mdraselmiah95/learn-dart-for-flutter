@@ -17,4 +17,3 @@ Flutter's widget system is entirely inheritance-based. `StatelessWidget` and `St
 dart run lessons/lesson-10-inheritance-abstract-mixin/main.dart
 ```
 
-> Files coming soon. See [roadmap](../../roadmap.md) for lesson schedule.

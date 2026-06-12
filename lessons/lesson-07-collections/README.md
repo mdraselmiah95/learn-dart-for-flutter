@@ -15,4 +15,3 @@ Flutter apps are full of collections — a list of users, a map of settings, a s
 dart run lessons/lesson-07-collections/main.dart
 ```
 
-> Files coming soon. See [roadmap](../../roadmap.md) for lesson schedule.

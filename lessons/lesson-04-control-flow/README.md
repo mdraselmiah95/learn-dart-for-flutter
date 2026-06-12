@@ -14,4 +14,3 @@ Control flow drives UI logic in Flutter — showing/hiding widgets, checking aut
 dart run lessons/lesson-04-control-flow/main.dart
 ```
 
-> Files coming soon. See [roadmap](../../roadmap.md) for lesson schedule.

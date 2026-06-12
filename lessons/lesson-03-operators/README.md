@@ -16,4 +16,3 @@ Operators are used everywhere in Flutter — calculating layouts, comparing stat
 dart run lessons/lesson-03-operators/main.dart
 ```
 
-> Files coming soon. See [roadmap](../../roadmap.md) for lesson schedule.

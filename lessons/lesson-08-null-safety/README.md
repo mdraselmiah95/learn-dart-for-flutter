@@ -19,4 +19,3 @@ All modern Flutter apps (Flutter 2.0+) are null-safe. You will see `?`, `??`, an
 dart run lessons/lesson-08-null-safety/main.dart
 ```
 
-> Files coming soon. See [roadmap](../../roadmap.md) for lesson schedule.

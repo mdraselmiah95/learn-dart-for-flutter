@@ -44,8 +44,9 @@ void main() {
   print(5 <= 4);  // → false  less than or equal
 
   // ── 4. LOGICAL OPERATORS ──────────────────────────────────
-  bool isLoggedIn = true;
-  bool isAdmin = false;
+  // fromUser() simulates input Dart can't predict (defined below main)
+  bool isLoggedIn = fromUser(true);
+  bool isAdmin = fromUser(false);
 
   // && AND — both sides must be true
   print(isLoggedIn && isAdmin);  // → false
@@ -97,4 +98,9 @@ void main() {
 // Simulates loading a username — returns null (user not logged in)
 String? loadUsername() {
   return null;
+}
+
+// Simulates user input — Dart can't predict the value at compile time
+bool fromUser(bool value) {
+  return value;
 }

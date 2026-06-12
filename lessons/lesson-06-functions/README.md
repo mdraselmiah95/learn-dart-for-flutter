@@ -17,4 +17,3 @@ Flutter widgets are built and rebuilt by calling functions. Callbacks like `onPr
 dart run lessons/lesson-06-functions/main.dart
 ```
 
-> Files coming soon. See [roadmap](../../roadmap.md) for lesson schedule.

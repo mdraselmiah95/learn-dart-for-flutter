@@ -170,21 +170,21 @@ touch references/topic-cheatsheet.md
 Use this section to note things you want to add or fix later.
 
 ### Lessons to Complete
-- [ ] lesson-03-operators — add main.dart, practice.dart, solution.dart
-- [ ] lesson-04-control-flow — add main.dart, practice.dart, solution.dart
-- [ ] lesson-05-loops — add main.dart, practice.dart, solution.dart
-- [ ] lesson-06-functions — add main.dart, practice.dart, solution.dart
-- [ ] lesson-07-collections — add main.dart, practice.dart, solution.dart
-- [ ] lesson-08-null-safety — add main.dart, practice.dart, solution.dart
-- [ ] lesson-09-oop-classes — add main.dart, practice.dart, solution.dart
-- [ ] lesson-10-inheritance-abstract-mixin — add main.dart, practice.dart, solution.dart
-- [ ] lesson-11-async-future-streams — add main.dart, practice.dart, solution.dart
-- [ ] lesson-12-flutter-readiness — add main.dart, practice.dart, solution.dart
+- [x] lesson-03-operators — main.dart, practice.dart, solution.dart ✓
+- [x] lesson-04-control-flow — main.dart, practice.dart, solution.dart ✓
+- [x] lesson-05-loops — main.dart, practice.dart, solution.dart ✓
+- [x] lesson-06-functions — main.dart, practice.dart, solution.dart ✓
+- [x] lesson-07-collections — main.dart, practice.dart, solution.dart ✓
+- [x] lesson-08-null-safety — main.dart, practice.dart, solution.dart ✓
+- [x] lesson-09-oop-classes — main.dart, practice.dart, solution.dart ✓
+- [x] lesson-10-inheritance-abstract-mixin — main.dart, practice.dart, solution.dart ✓
+- [x] lesson-11-async-future-streams — main.dart, practice.dart, solution.dart ✓
+- [x] lesson-12-flutter-readiness — main.dart, practice.dart, solution.dart ✓
 
 ### Mini Projects to Build
-- [ ] 01-calculator — add calculator.dart and solution.dart
-- [ ] 02-todo-logic — add todo_app.dart and solution.dart
-- [ ] 03-expense-tracker — add expense_tracker.dart and solution.dart
+- [x] 01-calculator — starter calculator.dart + solution.dart ✓
+- [x] 02-todo-logic — starter todo_app.dart + solution.dart ✓
+- [x] 03-expense-tracker — starter expense_tracker.dart + solution.dart ✓
 
 ### Exercises to Add
 - [ ] exercise-01-variables.dart

@@ -91,6 +91,7 @@ void main() {
   List<String> fruits  = ['Apple', 'Banana', 'Mango'];
   List<int>    numbers = [1, 2, 3, 4, 5];
   print('List: $fruits');
+  print('List: $numbers');
   print('List first item: ${fruits[0]}');   // index starts at 0
   print('List length: ${fruits.length}');
 
@@ -104,8 +105,9 @@ void main() {
   print('Math mark: ${marks['Math']}');     // access by key
 
   // ── 14. Set — unique values only, no duplicates ───────────
-  Set<String> colors = {'Red', 'Green', 'Blue', 'Red'}; // 'Red' added twice
-  print('Set: $colors'); // → {Red, Green, Blue} — 'Red' stored once
+  Set<String> colors = {'Red', 'Green', 'Blue'};
+  colors.add('Red');     // 'Red' already exists — silently ignored
+  print('Set: $colors'); // → {Red, Green, Blue} — still only one 'Red'
 
   // ── TYPE CONVERSION ───────────────────────────────────────
   String numStr = '42';

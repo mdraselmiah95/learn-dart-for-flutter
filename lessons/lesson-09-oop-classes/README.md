@@ -19,4 +19,3 @@ Every Flutter widget is a class. `StatelessWidget`, `StatefulWidget`, your data 
 dart run lessons/lesson-09-oop-classes/main.dart
 ```
 
-> Files coming soon. See [roadmap](../../roadmap.md) for lesson schedule.

@@ -16,4 +16,3 @@ Loops power dynamic UI in Flutter — rendering a list of widgets from a `List` 
 dart run lessons/lesson-05-loops/main.dart
 ```
 
-> Files coming soon. See [roadmap](../../roadmap.md) for lesson schedule.

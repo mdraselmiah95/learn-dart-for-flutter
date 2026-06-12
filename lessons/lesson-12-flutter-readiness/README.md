@@ -26,4 +26,3 @@ This lesson bridges Dart and Flutter directly. After this lesson, Flutter code w
 dart run lessons/lesson-12-flutter-readiness/main.dart
 ```
 
-> Files coming soon. See [roadmap](../../roadmap.md) for lesson schedule.
